@@ -1,6 +1,6 @@
 # Olá, eu sou a Letícia Polatto! 👋
 
-### Estudante de Desenvolvimento de Sistemas e Engenharia de Controle e Automação
+### Estudante de Engenharia de Controle e Automação e Desenvolvimento de Sistemas
 
 Gosto de transformar ideias em projetos que conectam software, eletrônica e automação. Estou construindo meu portfólio enquanto aprendo novas tecnologias e desenvolvo soluções para sistemas embarcados, robótica e web.
 
@@ -8,8 +8,8 @@ Gosto de transformar ideias em projetos que conectam software, eletrônica e aut
 
 ## 👩‍💻 Sobre mim
 
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas**
 - ⚙️ Estudante de **Engenharia de Controle e Automação**
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas**
 - 🤖 Interesse em **robótica, ROS 2 e sistemas ciberfísicos**
 - 🔌 Explorando **sistemas embarcados e integração entre hardware e software**
 - 🌱 Sempre aprendendo e aplicando boas práticas de programação
@@ -28,17 +28,11 @@ Gosto de transformar ideias em projetos que conectam software, eletrônica e aut
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Estatísticas de Letícia no GitHub](https://github-readme-stats.vercel.app/api?username=lelepolatto-bit&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lelepolatto-bit&layout=compact&theme=tokyonight&locale=pt-br)
-
----
-
 ## 📬 Como me encontrar
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lelepolatto-bit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-polatto-de-novaes-14a4ba2b3)
+[![Lattes](https://img.shields.io/badge/Currículo_Lattes-005CA9?style=for-the-badge&logo=readme&logoColor=white)](https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=A219EB57DAD57F4570AF2C93A9303244#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lelepolatto@gmail.com)
 
 ---
