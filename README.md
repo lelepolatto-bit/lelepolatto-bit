@@ -12,7 +12,7 @@ No momento, direciono meus estudos e projetos à robótica móvel. Utilizo ROS 2
 
 ## Pesquisa
 
-Minha formação acadêmica está direcionada à investigação e à aplicação de métodos de engenharia em sistemas automatizados. Nesse percurso, procuro relacionar fundamentos matemáticos, simulação computacional e verificação experimental. Meus estudos concentram-se nos seguintes eixos:
+Minha formação acadêmica está direcionada à investigação e à aplicação de métodos de engenharia em sistemas automatizados. Meus estudos concentram-se nos seguintes eixos:
 
 - modelagem, localização e controle de robôs móveis;
 - integração entre sensores, sistemas embarcados e arquiteturas de software;
@@ -26,7 +26,6 @@ Minha formação acadêmica está direcionada à investigação e à aplicação
 - Curso o **Técnico em Desenvolvimento de Sistemas**
 - Desenvolvo projetos de **robótica móvel**, com emprego de Python e ROS 2 na estruturação de sistemas robóticos
 - Atuo no desenvolvimento de **sistemas embarcados** e na integração entre sensores, microcontroladores e software
-- Possuo experiência no desenvolvimento de uma plataforma didática de **eletrônica de potência**, integrando simulação de conversores estáticos, firmware embarcado e monitoramento de grandezas elétricas
 
 ---
 
