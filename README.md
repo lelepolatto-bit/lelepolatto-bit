@@ -1,20 +1,49 @@
-# 😄 Olá, eu sou a Letícia!
-- Estudante de Desenvolvimento de Sistemas
-- Focado em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
-- 📫 Contato: lelepolatto@gmail.com
+# Olá, eu sou a Letícia Polatto! 👋
 
-<!--
-**lelepolatto-bit/lelepolatto-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Desenvolvimento de Sistemas e Engenharia de Controle e Automação
 
-Here are some ideas to get you started:
+Gosto de transformar ideias em projetos que conectam software, eletrônica e automação. Estou construindo meu portfólio enquanto aprendo novas tecnologias e desenvolvo soluções para sistemas embarcados, robótica e web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas**
+- ⚙️ Estudante de **Engenharia de Controle e Automação**
+- 🤖 Interesse em **robótica, ROS 2 e sistemas ciberfísicos**
+- 🔌 Explorando **sistemas embarcados e integração entre hardware e software**
+- 🌱 Sempre aprendendo e aplicando boas práticas de programação
+
+---
+
+## 🚀 Tecnologias que estudo
+
+<div>
+  <img align="center" alt="Python" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="HTML5" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="C" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Git" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="ROS" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas de Letícia no GitHub](https://github-readme-stats.vercel.app/api?username=lelepolatto-bit&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lelepolatto-bit&layout=compact&theme=tokyonight&locale=pt-br)
+
+---
+
+## 📬 Como me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lelepolatto-bit)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lelepolatto@gmail.com)
+
+---
+
+> *"Sempre aprendendo, criando e evoluindo como desenvolvedora."*
