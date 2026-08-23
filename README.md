@@ -16,7 +16,6 @@ Este perfil apresenta parte da minha trajetória acadêmica e dos projetos desen
 - Curso o **Técnico em Desenvolvimento de Sistemas**
 - Desenvolvo projetos em **robótica, ROS 2 e sistemas ciberfísicos**
 - Desenvolvo soluções com **sistemas embarcados e integração entre hardware e software**
-- Aplico controle de versão e boas práticas de programação
 
 ---
 
