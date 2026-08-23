@@ -2,7 +2,7 @@
 
 ### Engenharia de Controle e Automação | Desenvolvimento de Sistemas
 
-Sou estudante de Engenharia de Controle e Automação e do curso Técnico em Desenvolvimento de Sistemas. Minha formação reúne conhecimentos de programação, eletrônica e automação, proporcionando uma compreensão integrada da relação entre hardware e software.
+Sou graduanda em Engenharia de Controle e Automação e estudante do curso Técnico em Desenvolvimento de Sistemas. Minha formação reúne conhecimentos de programação, eletrônica e automação, proporcionando uma compreensão integrada da relação entre hardware e software.
 
 Atualmente, desenvolvo projetos nas áreas de robótica, sistemas embarcados e sistemas ciberfísicos, com aplicação de recursos como Python, linguagem C e ROS 2. Essas atividades têm contribuído para o aprimoramento da minha capacidade de análise, da organização de processos e da elaboração de soluções técnicas.
 
@@ -12,7 +12,7 @@ Este perfil apresenta parte da minha trajetória acadêmica e dos projetos desen
 
 ## Formação e atuação
 
-- Graduação em andamento em **Engenharia de Controle e Automação**
+- Graduanda em **Engenharia de Controle e Automação**
 - Curso **Técnico em Desenvolvimento de Sistemas** em andamento
 - Desenvolvimento de projetos em **robótica, ROS 2 e sistemas ciberfísicos**
 - Desenvolvimento de soluções com **sistemas embarcados e integração entre hardware e software**
